@@ -1,0 +1,18 @@
+body{
+    margin: 10px;
+}
+
+atable{
+    border: 2;
+    border-style: solid;
+    font-size: 50px;
+    width: 680px;
+}
+
+.atable_belso{
+    width: 650px;
+    margin-top: 50px;
+    border-style: none;
+    border: 0;
+    font-size: 20px;
+}
